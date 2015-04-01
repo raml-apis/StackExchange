@@ -21,7 +21,7 @@ KEY = prompt("Please, enter 'key' of your Stack application")
 
 ```javascript
 // Read about the StackExchange at https://anypoint.mulesoft.com/apiplatform/popular/admin/#/dashboard/apis/7956/versions/8119/contracts
-API.createClient('client', '/apiplatform/repository/public/organizations/30/apis/7956/versions/8119/definition');
+API.createClient('client', '#REF_TAG_DEFENITION');
 ```
 
 ```javascript
